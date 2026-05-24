@@ -1,0 +1,26 @@
+{
+  "name": "lucky LAMP",
+  "short_name": "luckyLAMP",
+  "description": "確率でランプが光る運試しゲーム。プレミア演出も楽しめる！",
+  "start_url": "./lucky-lamp.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#06060c",
+  "theme_color": "#ffaa00",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
